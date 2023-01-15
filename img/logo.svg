@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191.11 123.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        font-family: Lato-Semibold, Lato;
+        font-size: 60.96px;
+        font-weight: 700;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #838bc1;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-2" x="14.41" y="14.41" width="94.46" height="94.46" rx="12.38" ry="12.38" transform="translate(-25.49 59.01) rotate(-43.27)"/>
+    <text class="cls-1" transform="translate(58.94 83.53)"><tspan x="0" y="0">H</tspan><tspan class="cls-3" x="46.78" y="0">D</tspan><tspan x="91.43" y="0">X</tspan></text>
+  </g>
+</svg>
